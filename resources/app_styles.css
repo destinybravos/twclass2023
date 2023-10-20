@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    color: rgb(35, 35, 36);
+}
+
+.container {
+    max-width: 72rem !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

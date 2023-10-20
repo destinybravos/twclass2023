@@ -1,0 +1,9 @@
+{
+  "name": "tailwindcss-class",
+  "scripts": {
+    "watch" : "tailwindcss -i ./resources/app_styles.css -o ./css/app.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
